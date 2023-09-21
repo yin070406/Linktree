@@ -1,4 +1,4 @@
-# linktree
+# Linktree
 > A Linktree about myself ( •̀ ω •́ )✧
 
 > HTML
