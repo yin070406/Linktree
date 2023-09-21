@@ -1,2 +1,6 @@
 # linktree
-A Linktree about myself ( •̀ ω •́ )✧
+> A Linktree about myself ( •̀ ω •́ )✧
+
+> HTML
+> CSS
+> JavaScript
